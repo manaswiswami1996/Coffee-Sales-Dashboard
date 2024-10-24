@@ -11,11 +11,12 @@ The Coffee Sales Dashboard includes the following key components:
 - *Sales by Country:* A bar chart displaying total sales across key regions, including the United States, Ireland, and the United Kingdom.
 - *Top Customers:* A leaderboard of the top 5 customers based on total sales.
 - *Average Order Value by Size:* A line chart showing the average order value segmented by coffee package size (0.2 kg, 0.5 kg, 1.0 kg, 2.5 kg).
-- *Filters:*
-	-- Order Date: A timeline filter to focus on specific periods (monthly/quarterly/yearly views).
-  -- Country: Filter sales data by region.
-  -- Roast Type: Drill down to view sales by roast type (Dark, Medium, Light).
-  -- Loyalty Score: Analyze data based on whether customers have a loyalty card or not.
+
+  #### Filters:
+ - Order Date: A timeline filter to focus on specific periods (monthly/quarterly/yearly views).
+ - Country: Filter sales data by region.
+ - Roast Type: Drill down to view sales by roast type (Dark, Medium, Light).
+ - Loyalty Score: Analyze data based on whether customers have a loyalty card or not.
 
 ## Data Preprocessing
 Before creating the dashboard, several data preprocessing steps were performed using advanced Excel functions:
