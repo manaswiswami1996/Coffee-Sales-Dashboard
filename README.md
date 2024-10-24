@@ -19,24 +19,25 @@ The Coffee Sales Dashboard includes the following key components:
 
 ## Data Preprocessing
 Before creating the dashboard, several data preprocessing steps were performed using advanced Excel functions:
-•	XLOOKUP: Used to dynamically retrieve values from related tables, such as matching customer details based on Customer ID and product details based on Product ID. This helped in creating a comprehensive dataset linking orders, customers, and products. 
-•	INDEX MATCH: Employed for more complex lookups, especially when dealing with multiple criteria. This was used to match products and retrieve corresponding information like unit price and size.
+- XLOOKUP: Used to dynamically retrieve values from related tables, such as matching customer details based on Customer ID and product details based on Product ID. This helped in creating a comprehensive dataset linking orders, customers, and products. 
+- INDEX MATCH: Employed for more complex lookups, especially when dealing with multiple criteria. This was used to match products and retrieve corresponding information like unit price and size.
 Key Metrics
-•	Total Sales: Aggregated sales across the dataset.
-•	Top Coffee Products: Popular coffee types based on sales and profitability.
-•	Sales by Country: Sales distribution across regions.
-•	Average Order Value (AOV): The average spend per order, segmented by coffee package size.
-•	Customer Loyalty: Breakdown of sales by customers with and without loyalty cards.
-Tools and Techniques
+- Total Sales: Aggregated sales across the dataset.
+- Top Coffee Products: Popular coffee types based on sales and profitability.
+- Sales by Country: Sales distribution across regions.
+- Average Order Value (AOV): The average spend per order, segmented by coffee package size.
+- Customer Loyalty: Breakdown of sales by customers with and without loyalty cards.
+
+##  Tools and Techniques
 This project demonstrates the following Excel features:
-•	XLOOKUP & INDEX MATCH: Advanced lookup functions to merge datasets and retrieve necessary information dynamically.
-•	PivotTables & PivotCharts: Used to summarize and visualize data in an interactive manner.
-•	Slicers and Timelines: Filters that allow users to quickly interact with the dashboard and view segmented data.
-•	Advanced Formulas: Calculated fields for metrics like total sales and average order value.
-•	Data Cleaning and Transformation: Pre-processing of data using Excel's data handling tools.
-Data Source
+- XLOOKUP & INDEX MATCH: Advanced lookup functions to merge datasets and retrieve necessary information dynamically.
+- PivotTables & PivotCharts: Used to summarize and visualize data in an interactive manner.
+- Slicers and Timelines: Filters that allow users to quickly interact with the dashboard and view segmented data.
+- Advanced Formulas: Calculated fields for metrics like total sales and average order value.
+- Data Cleaning and Transformation: Pre-processing of data using Excel's data handling tools.
+## Data Source
 The dataset used for this project contains:
-•	Orders: Information about individual coffee orders (Order ID, Order Date, Product, Quantity, Sales).
-•	Customers: Customer details, including location and loyalty card information.
-•	Products: Coffee products offered, including product type, roast, size, and pricing
+- Orders: Information about individual coffee orders (Order ID, Order Date, Product, Quantity, Sales).
+- Customers: Customer details, including location and loyalty card information.
+- Products: Coffee products offered, including product type, roast, size, and pricing
 
