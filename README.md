@@ -36,6 +36,14 @@ This project demonstrates the following Excel features:
 - Slicers and Timelines: Filters that allow users to quickly interact with the dashboard and view segmented data.
 - Advanced Formulas: Calculated fields for metrics like total sales and average order value.
 - Data Cleaning and Transformation: Pre-processing of data using Excel's data handling tools.
+
+## Insights
+- Liberica and Excelsa contribute the highest sales but could be under-marketed. Target promotions for these coffee types with loyalty program incentives to retain high-value customers.
+- Sales see significant spikes in June, October, and December across years. Focus marketing campaigns, discounts, and bundle offers during these months to capitalize on consumer interest.
+- Products like L-L-2.5 (Liberica, Light Roast) and L-M-2.5 (Liberica, Medium Roast) generate the highest profit margins. Bundle these with popular but lower-profit items to maximize revenue per order.
+- Robusta contributes the least sales among coffee types. A strategy to highlight its unique qualities (e.g., stronger flavor, affordability) via targeted ads or sampling campaigns could help improve its market share.
+- While the data predominantly shows high sales in the United States and Ireland, explore marketing in regions with emerging coffee trends.
+
 ## Data Source
 The dataset used for this project contains:
 - Orders: Information about individual coffee orders (Order ID, Order Date, Product, Quantity, Sales).
